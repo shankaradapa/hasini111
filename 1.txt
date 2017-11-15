@@ -1,3 +1,9 @@
-install git 
+install git
 install docker
+
 install ansible
+
+
+install git
+install maven
+install jenkins
