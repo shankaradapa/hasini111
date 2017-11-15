@@ -1,0 +1,3 @@
+install git 
+install docker
+install ansible
